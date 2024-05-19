@@ -1,3 +1,5 @@
+![image](https://github.com/003ADITISINGH/Aditi-Singh/assets/107299395/ff65fabf-1153-444f-8cb2-6196c3468ffc)
+
 <h1 align="center">Hi 👋, I'm Aditi Singh</h1>
 <h3 align="center">Data Science Student</h3>
 
