@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aditi Singh</h1>
 <h3 align="center">Data Science Student</h3>
 
-- Projet-1 [Concrete-Compressive-Strength-using-ML](https://github.com/003ADITISINGH/Concrete-Compressive-Strength-using-ML)
+- Projet-1 **Concrete-Compressive-Strength-using-ML**
 
 - Project-4 **Drug Efficacy Prediction Using NLP**
 
